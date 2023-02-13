@@ -489,31 +489,31 @@ color: aliceblue;
 }
 /* CARDS */
 .card1{
-  background: url("./img/IMG_20201109_185757.JPG")
+  background: url("img/IMG_20201109_185757.JPG")
   0 / cover no-repeat;
 }
 .card2{
-  background: url("./img/received_1106628136565947.jpeg")
+  background: url("img/received_1106628136565947.jpeg")
   0 / cover no-repeat;
 }
 .card3{
-  background: url("ASSETS/img/received_1369572630086084.JPEG")
+  background: url("img/received_1369572630086084.JPEG")
   0 / cover no-repeat;
 }
 .card4{
-  background: url("ASSETS/img/received_200109101566877.jpeg")
+  background: url("img/received_200109101566877.jpeg")
   0 / cover no-repeat;
 }
 .card5{
-  background: url("ASSETS/img/received_215084514044882.jpeg")
+  background: url("img/received_215084514044882.jpeg")
   0 / cover no-repeat;
 }
 .card6{
-  background: url("ASSETS/img/received_262889925808144.jpeg")
+  background: url("img/received_262889925808144.jpeg")
   0 / cover no-repeat;
 }
 .card7{
-  background: url("ASSETS/img/received_264134422312814.jpeg")
+  background: url("img/received_264134422312814.jpeg")
   0 / cover no-repeat;
 }
 .card8{
